@@ -7,6 +7,7 @@
 # Status -> display status of a code
 # git status
 # ls -a # so see hidden files
+
 # ----------------------------------------------------------------------------------------
 # Steps to perform after modifying a file
 # Unmodified -> changed -> Modified(This file is to be added) -> (Add) -> Staged -> (commit) -> Commited(Unmodified)
@@ -20,6 +21,7 @@
 # Staged -  Files that are ready to be commited (changes have been added)
 # Commit - No more changes to be added
 # Unmodified - Intial file (no files have been changed)
+
 # ---------------------------------------------------------------------------------------------------------
 # Push Command
 # push - upload local repo content to remote repo
@@ -30,6 +32,7 @@
 # This default reporitory has a default name origin. 
 # The remote github Repository is named as orgin(by default)
 # We are trying to commit changes in a branch named as main
+
 # ------------------------------------------------------------------------------------------------------------------------------
 # WHEN WE WANT TO MAKE REPO IN OUR LOCAL 
 # init -> used to create a new git repo
